@@ -6,6 +6,7 @@ from PIL import Image
 
 
 st.write("# IRIS- Logistic Rgression")
+st.image("iris.png")
 
 
 
